@@ -1,0 +1,17 @@
+1- The base model used in SAMCares is the LLaMa-2 70B model.
+2- I don't have the specific information on the year the SAMCares project was launched based on the context provided.
+3- I don't have that specific information about the corresponding author of the SAMCares study.
+4- The main AI technique used in SAMCares is the Retriever Augmented Generation (RAG) system.
+5- The LLaMa 2 model was developed by Meta.
+6- A total of 150 participants will be recruited for the SAMCares study.
+7- The expected mean test score for participants using SAMCares is 80 out of 100.
+8- The sample size ratio for the two participant groups in the study is 1:1. This means that both groups will have an equal number of participants.
+9- The retriever system integrated into SAMCares is called the Retriever Augmented Generation (RAG) system.
+10- The inclusion criteria for participants in the SAMCares study include being part of the freshman class of the SHSU Engineering Technology Department. Recruitment will be facilitated through referrals from faculty members, targeted email communications to department students, physical flyers on campus, and social media platforms. Eligible participants will be randomly assigned into two groups, one with access to the SAMCares tool and one without access.
+
+
+Hallucination in answer 3: it is mentionned in detail in the document
+// Syed Hasib Akhter Faruqui is the corresponding author.
+
+Hallucination in answer 10: Hallucinates details about recruitment methods, which were not explicitly part of the inclusion criteria.
+//Participants must be enrolled as undergraduates at SHSU, be 18 years or older, freshmen, and possess basic technological proficiency.

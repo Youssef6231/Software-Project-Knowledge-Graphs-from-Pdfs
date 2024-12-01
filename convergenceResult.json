@@ -1,0 +1,14 @@
+[
+    {
+        "queries": [
+            "Who is the corresponding author of the SAMCares study?"
+        ],
+        "responses": [
+            "I don't have that information."
+        ],
+        "progression_score": 0.0,
+        "loop_score": 1.0,
+        "convergence_score": 1,
+        "feedback": "The agent's responses show room for improvement in progressing toward a clear outcome."
+    }
+]
